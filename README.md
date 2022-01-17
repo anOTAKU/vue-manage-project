@@ -26,4 +26,3 @@ yarn lint
 =======
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 997830c9fda7d9168eaa7cfb1dccc86a0c948b76
